@@ -6,7 +6,7 @@ var builder = ProtoBuf.loadProtoFile("person.proto"),
 
 var person = new Person({
     "name": "Lupita",
-    "id":"1",
+    "id":1,
     "email":"lupitaoctaviani@yahoo.com",
     
 });
